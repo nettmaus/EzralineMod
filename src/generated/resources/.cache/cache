@@ -1,0 +1,17 @@
+b10ea8235951e27c1cadb2acae3ad1d2ebf2fa2b assets/ezraline/blockstates/blaustoff_block.json
+2a9b581711030b5fd3b2fdf244f79650302eb9d7 assets/ezraline/blockstates/blaustoff_ore.json
+fe58f4293a77c245060a7c261c98a54a6af084a8 assets/ezraline/models/block/blaustoff_block.json
+18d043be96d4a85ea285855cc0b66319f250281d assets/ezraline/models/block/blaustoff_ore.json
+64c1f12f89db20eaac6f0ad29374849fe36fe8dc assets/ezraline/models/item/blaustoff_block.json
+0f4520f7b1bb89001f83fce7a560a592829ccb1c assets/ezraline/models/item/blaustoff_ingot.json
+3e9716208d580748c1c16449f0b27fce64516377 assets/ezraline/models/item/blaustoff_ore.json
+4917b53e69c218da51fe0b7408c463780e1b40d3 data/forge/tags/blocks/ores.json
+c9a242dd2fd7f2994e1b2817e0781585295aba6e data/forge/tags/blocks/ores/blaustoff.json
+df69e99b795b4da505bf971481506d0103258fde data/forge/tags/blocks/storage_blocks.json
+d5e1dd5ccfe0018a501fee6990b06f6d84307826 data/forge/tags/blocks/storage_blocks/blaustoff.json
+3973ab1a42143c57689ff06bf4b9070949a3d270 data/forge/tags/items/ingots.json
+0210f681706c723e7e41d1f8576b37a288ca1199 data/forge/tags/items/ingots/blaustoff.json
+4917b53e69c218da51fe0b7408c463780e1b40d3 data/forge/tags/items/ores.json
+c9a242dd2fd7f2994e1b2817e0781585295aba6e data/forge/tags/items/ores/blaustoff.json
+df69e99b795b4da505bf971481506d0103258fde data/forge/tags/items/storage_blocks.json
+d5e1dd5ccfe0018a501fee6990b06f6d84307826 data/forge/tags/items/storage_blocks/blaustoff.json
